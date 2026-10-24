@@ -7,7 +7,7 @@ Only thing that somehow differs it from arch is bidirectional(imperative-declara
  2. How is it harder than archinstall?
 The OS has arnix-install, but to make it run you have to partition the disk by a tutorial and mount it, then the script starts (as from now only this mwthod of installation is available)
 
- 3.What is the purpose of this project?
+ 3. What is the purpose of this project?
 I am trying to solve the problem with imperative package managers that has somehow bothered people, the reproductiveness, and at the same time the provlem with declarative package managers, constant config writing which is time consuming.
 With ArnixOS I hope to solve both since arnix supports config writing and add/rem(remove) (they writes to the config).
 
